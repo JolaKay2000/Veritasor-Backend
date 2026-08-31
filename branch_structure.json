@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "test/require-business-auth-failure-paths-919"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "test/require-business-auth-failure-paths-919": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "test/require-business-auth-failure-paths-919"
+  ]
+}
